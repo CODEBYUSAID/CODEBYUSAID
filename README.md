@@ -1,37 +1,6 @@
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Muhammad Usaid Raza Hacker Banner">
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=👋+Muhammad+Usaid+Raza;💻+Freelancer;📈+Digital+Marketer;💙+Flutter+Developer+(Learning);⚡+Cyber+Security+Enthusiast;🚀+Welcome+to+My+GitHub" />
-</p>
-## 💻 About Me
-
-```yaml
-👤 Name: Muhammad Usaid Raza
-🌍 Country: Pakistan
-💼 Profession: Freelancer
-📈 Skills: Digital Marketing
-📱 Learning: Flutter Development
-🎯 Goal: Build Amazing Apps & AI Projects
-🚀 Status: Always Learning
-```
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/CODEBYUSAID">
-<img src="https://img.shields.io/badge/GitHub-CODEBYUSAID-181717?style=for-the-badge&logo=github&logoColor=39FF14">
-</a>
-
-<a href="https://www.instagram.com/officail_zorvix/">
-<img src="https://img.shields.io/badge/Instagram-@officail__zorvix-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</p>
-
-
-
-
+<h1 align="center">Hi 👋, I'm MUHAMMAD USAID RAZA</h1> <p align="center"                 <h3 align="center">A passionate frontend developer from PAKISTAN</h3> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><im g src="https://github-profile-trophy.vercel.app/?username=codebyusaid" alt="codebyusaid" /></a> </p> - 🔭 I’m currently working on **ECOMERCE SERVCES** - 🌱 I’m currently learning **FLUTTER DEV COURSE**   <p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="800" alt="Coding Animation">
+</p>- 📫 How to reach me **usaidraza7659@gmail.com** <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://instagram.com/officail_zorvix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="officail_zorvix" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p> <h3 align="left">Support:</h3> <p><a href="https://www.buymeacoffee.com/CODEBYUSAID"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CODEBYUSAID" /></a><a href="https://ko-fi.com/CODEBYUSAID"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="CODEBYUSAID" /></a></p><br><br> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyusaid&show_icons=true&locale=en&layout=compact" alt="codebyusaid" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyusaid&" alt="codebyusaid" /></p>
 
 
 
